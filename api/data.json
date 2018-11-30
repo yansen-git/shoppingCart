@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "name": "zhangsan",
+    "price": 1234,
+    "discount": 1
+},{
+    "id": 2,
+    "name": "lisi",
+    "price": 13454,
+    "discount": 0
+},{
+    "id": 3,
+    "name": "wangwu",
+    "price": 678,
+    "discount": 1
+}]
