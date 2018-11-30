@@ -3,6 +3,8 @@
 
 运行命令如下
  ``` javascript
+    npm install
+ 
     npm run dev
 
     http-server -p 88800
